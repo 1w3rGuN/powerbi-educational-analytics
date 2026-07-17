@@ -23,5 +23,5 @@
 <img width="2125" height="1179" alt="image" src="https://github.com/user-attachments/assets/1ea2722d-1cb8-462d-8713-9b1ac71f0ea0" />
 
 ## 📂 Структура репозиторію
-* `educational_analytics.pbix` — файл проєкту Power BI.
+* `Homework_12.pbix` — файл проєкту Power BI.
 * `data/` — папка з вихідними датасетами (за наявності).
