@@ -26,5 +26,5 @@ Analytics & Time Intelligence
 <img width="2125" height="1179" alt="image" src="https://github.com/user-attachments/assets/1ea2722d-1cb8-462d-8713-9b1ac71f0ea0" />
 
 ## 📂 Структура репозиторію
-* [Educational_analytics.pbix](Educational_analytics.pbix) — файл проєкту Power BI.
-* [data for educaction.rar](data for educaction.rar) — папка з вихідними датасетами (за наявності).
+* [Завантажити проєкт Power BI (Educational analytics.pbix)](Educational%20analytics.pbix) — файл проєкту Power BI.
+* [Завантажити вихідні дані (Data for education.rar)](Data%20for%20education.rar) — папка з вихідними датасетами (за наявності).
